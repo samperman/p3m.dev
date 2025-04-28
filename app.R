@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
 
     # Application title
-    titlePanel("p3m.dev"),
+    titlePanel("packagemanager.posit.co"),
 
     # Sidebar with a slider input for number of bins 
     sidebarLayout(
